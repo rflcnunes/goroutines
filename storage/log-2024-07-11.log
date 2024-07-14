@@ -1,0 +1,17 @@
+2024/07/11 23:10:41 CPUs: 3, Goroutines: 401, Time: 12s, Workers: 400
+2024/07/11 23:11:05 CPUs: 3, Goroutines: 401, Time: 13s, Workers: 400
+2024/07/11 23:11:52 CPUs: 8, Goroutines: 401, Time: 9s, Workers: 400
+2024/07/11 23:12:06 CPUs: 8, Goroutines: 401, Time: 10s, Workers: 400
+2024/07/11 23:12:19 CPUs: 8, Goroutines: 401, Time: 9s, Workers: 400
+2024/07/11 23:12:44 CPUs: 8, Goroutines: 801, Time: 17s, Workers: 800
+2024/07/11 23:14:05 CPUs: 8, Goroutines: 301, Time: 66s, Workers: 300
+2024/07/11 23:18:19 CPUs: 1, Goroutines: 301, Time: 239s, Workers: 300
+2024/07/11 23:20:48 CPUs: 2, Goroutines: 301, Time: 136s, Workers: 300
+2024/07/11 23:23:44 CPUs: 2, Goroutines: 301, Time: 170s, Workers: 300
+2024/07/11 23:42:25 CPUs: 8, Goroutines: 31, Time: 29s, Workers: 30
+2024/07/11 23:43:07 CPUs: 8, Goroutines: 31, Time: 30s, Workers: 30
+2024/07/11 23:43:45 CPUs: 3, Goroutines: 31, Time: 29s, Workers: 30
+2024/07/11 23:45:02 CPUs: 3, Goroutines: 31, Time: 30s, Workers: 30
+2024/07/11 23:46:54 CPUs: 1, Goroutines: 101, Time: 80s, Workers: 100
+2024/07/11 23:58:54 CPUs: 1, Goroutines: 101, Time: 81s, Workers: 100
+2024/07/12 00:01:01 CPUs: 1, Goroutines: 101, Time: 80s, Workers: 100
