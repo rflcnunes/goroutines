@@ -27,6 +27,7 @@ func callExternalService(wg *sync.WaitGroup) {
 	wg.Done()
 }
 
+// WaitGroup
 func main() {
 	fmt.Println("Hello, World!")
 

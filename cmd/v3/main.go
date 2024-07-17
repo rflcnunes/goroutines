@@ -6,6 +6,7 @@ import (
 	"time"
 )
 
+// Channel
 func main() {
 	var m sync.Mutex
 
